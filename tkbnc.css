@@ -1,0 +1,32 @@
+body {
+    padding: 50px;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+  border-collapse: collapse;
+
+}
+h1 {
+ text-align: center;
+    color: blue;
+}
+p{
+    color: blue;
+}
+.cam{
+    background: yellow;
+}
+.vang{
+    background: orange;
+}
+.text{
+    color: blue;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
